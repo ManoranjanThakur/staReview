@@ -1,0 +1,39 @@
+.headerr{
+    height:10.981vw;
+    width:51.411vw;
+    display: flex;
+}
+.myImage{
+    position: relative;
+    height:10.981vw;
+    width:10.981vw;
+    
+}
+.myImage img{
+    position:absolute;
+    width:100%;
+    height:90%;
+    display:block;
+    border-radius: 50%;
+    box-shadow: -0.3vw -0.3vw 0.798vw rgba(255, 255, 255, 0.5),
+    0.2vw 0.2vw 0.789vw rgba(0, 0, 0, 0.25);
+    
+}
+.MyDescription{
+    margin-left: 2.343vw;
+    display:grid;
+    grid-template-rows: 3.148vw 2.1vw 2.1vw 2.1vw;
+    width:30vw;
+
+}
+.MyDescription div{
+    display:flex;
+}
+.MyDescription h2{
+    font: normal normal normal 1.8vw/2.8vw Poppins;
+    color: #2D2D2D;
+}
+.MyDescription p{
+    color: #8D8D8D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+}

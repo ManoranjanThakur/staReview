@@ -138,13 +138,13 @@
     margin-left: 87px;
     border: 1px solid #707070;
     display: grid;
-    grid-template-rows: 45px 24px 542px;
+    grid-template-rows: 62px 24px 542px;
 }
 
 .AdminProductHeading {
-    width: 848px;
-    height: 21px;
-    margin-top: 24px;
+    width: 1000px;
+    height: 58px;
+    margin-top: 5px;
     margin-left: 24px;
     display: flex;
 }
@@ -173,11 +173,11 @@
 }
 
 #adminName {
-    width: 45px;
+    width: 150px;
     height: 21px;
     font: normal normal normal 15px/23px Poppins;
     color: #4D4D4D;
-    margin-left: 174px;
+    margin-left: 70px;
 }
 
 #adminStatus {
@@ -185,13 +185,14 @@
     height: 21px;
     font: normal normal normal 15px/23px Poppins;
     color: #4D4D4D;
-    margin-left: 208px;
+    margin-left: 230px;
 }
 
 #AdminLine {
     width: 1081px;
+    height:0px;
     border: 1px solid #707070;
-    margin-top: 24px;
+    margin-top: 0px;
 
 }
 
@@ -209,7 +210,8 @@
     display: flex;
 }
 
-.productDresses {
+.ename{
+    margin-top:0px;
     width: 58px;
     height: 21px;
     font: normal normal normal 15px/23px Poppins;
@@ -217,6 +219,7 @@
 }
 
 .productIdAdmin {
+    margin-top:0px;
     width: 52px;
     height: 21px;
     margin-left: 102px;
@@ -225,6 +228,7 @@
 }
 
 .quantityIncDec {
+    margin-top:0px;
     width: 94px;
     height: 21px;
     margin-left: 75.09px;
@@ -232,6 +236,7 @@
 }
 
 #minusIcon {
+
     width: 17px;
     height: 17px;
     color: #ADADAD;
@@ -239,6 +244,7 @@
 }
 
 .quantityNo {
+    margin-top:0px;
     width: 14px;
     height: 21px;
     margin-left: 23px;
@@ -255,14 +261,16 @@
 }
 
 .dressName {
+    margin-top:0px;
     width: 143px;
     height: 21px;
     font: normal normal normal 15px/23px Poppins;
     color: #8D8D8D;
-    margin-left: 62.02px;
+    margin-left: 50.02px;
 }
 
 .productStatus {
+    margin-top:0px;
     display: flex;
     width: 128px;
     height: 21px;
@@ -270,6 +278,7 @@
 }
 
 #closeSquare {
+    margin-top:0px;
     width: 17px;
     height: 17px;
     color: #CDCDCD;
@@ -277,6 +286,7 @@
 }
 
 #checkSquare {
+    margin-top:0px;
     width: 17px;
     height: 17px;
     color: #13C200;
@@ -285,6 +295,7 @@
 }
 
 .StatusAva {
+    margin-top:0px;
     width: 69px;
     height: 21px;
     font: normal normal normal 15px/23px Poppins;
