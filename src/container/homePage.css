@@ -1,0 +1,365 @@
+.heading {
+    width: 197px;
+    height: 49px;
+    margin-top: 94px;
+    margin-left: 139px;
+    font: normal normal normal 35px/53px Poppins;
+    color: #4D4D4D;
+}
+
+.Aboutttt {
+    margin-left: 452px;
+    margin-top: 40px;
+}
+
+.adminBox {
+    width: 1226px;
+    height: 961px;
+    border: 1px solid #707070;
+    margin-left: 70px;
+    margin-top: 16px;
+    display: grid;
+    grid-template-rows: 60px 24px 77px 72px 655px;
+}
+
+.adminNav {
+    width: 517px;
+    height: 28px;
+    margin-left: 69px;
+    margin-top: 32px;
+    display: flex;
+}
+
+.adminProducts {
+    width: 105px;
+    height: 28px;
+    font: normal normal normal 20px/30px Poppins;
+    color: #4D4D4D;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.adminBilling {
+    width: 69px;
+    height: 28px;
+    margin-top: 0px;
+    margin-left: 123px;
+    font: normal normal normal 20px/30px Poppins;
+    color: #8D8D8D;
+}
+
+.adminReseller {
+    width: 96px;
+    height: 28px;
+    margin-top: 0px;
+    margin-left: 123px;
+    font: normal normal normal 20px/30px Poppins;
+    color: #8D8D8D;
+}
+
+.productLine {
+    width: 1106px;
+    display: flex;
+    margin-left: 69px;
+    margin-top: 24px;
+    height: 0;
+}
+
+#adminLine2 {
+    width: 108px;
+    border: 2px solid #4D4D4D;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+
+}
+
+#adminLine {
+    margin-left: 0;
+    margin-top: 0;
+    width: 1001px;
+    border: 2px solid #CDCDCD;
+}
+
+.categoryProductBtn {
+    width: 1090px;
+    height: 39px;
+    display: flex;
+    margin-top: 34px;
+    margin-left: 87px;
+}
+
+.categoryBtn {
+    width: 177px;
+    height: 39px;
+    background: #949494;
+    font: normal normal normal 17px/23px Poppins;
+    color: #FFFFFF;
+    border-radius: 0;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+.productBtn {
+    margin-left: 32px;
+    width: 157px;
+    height: 39px;
+    background: #949494;
+    font: normal normal normal 17px/23px Poppins;
+    color: #FFFFFF;
+    border-radius: 0;
+    text-decoration: none;
+    cursor: pointer;
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+.productNumber {
+    width: 276px;
+    height: 21px;
+    margin-left: 462px;
+    text-align: right;
+    font: normal normal normal 15px/23px Poppins;
+    color: #CDCDCD;
+}
+
+.SearchDrop {
+    width: 721px;
+    height: 40px;
+    margin-top: 32px;
+    margin-left: 87px;
+    border: 1px solid coral;
+}
+
+.AdminProductDetails {
+    width: 1086px;
+    height: 623px;
+    margin-top: 32px;
+    margin-left: 87px;
+    border: 1px solid #707070;
+    display: grid;
+    grid-template-rows: 45px 24px 542px;
+}
+
+.AdminProductHeading {
+    width: 848px;
+    height: 21px;
+    margin-top: 24px;
+    margin-left: 24px;
+    display: flex;
+}
+
+#adminCategories {
+    width: 83px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #4D4D4D;
+}
+
+#adminProductID {
+    width: 77px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #4D4D4D;
+    margin-left: 80px;
+}
+
+#adminQuantity {
+    width: 64px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #4D4D4D;
+    margin-left: 68px;
+}
+
+#adminName {
+    width: 45px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #4D4D4D;
+    margin-left: 174px;
+}
+
+#adminStatus {
+    width: 47px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #4D4D4D;
+    margin-left: 208px;
+}
+
+#AdminLine {
+    width: 1081px;
+    border: 1px solid #707070;
+    margin-top: 24px;
+
+}
+
+.productDetailsAdmin {
+    width: 997px;
+    height: 526px;
+    margin-top: 16px;
+    margin-left: 33px;
+    display: grid;
+}
+
+.detailOne {
+    width: 996px;
+    height: 21px;
+    display: flex;
+}
+
+.productDresses {
+    width: 58px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #8D8D8D;
+}
+
+.productIdAdmin {
+    width: 52px;
+    height: 21px;
+    margin-left: 102px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #8D8D8D;
+}
+
+.quantityIncDec {
+    width: 94px;
+    height: 21px;
+    margin-left: 75.09px;
+    display: flex;
+}
+
+#minusIcon {
+    width: 17px;
+    height: 17px;
+    color: #ADADAD;
+    cursor: pointer;
+}
+
+.quantityNo {
+    width: 14px;
+    height: 21px;
+    margin-left: 23px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #4D4D4D;
+}
+
+#plusIcon {
+    width: 17px;
+    height: 17px;
+    color: #ADADAD;
+    cursor: pointer;
+    margin-left: 23px;
+}
+
+.dressName {
+    width: 143px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #8D8D8D;
+    margin-left: 62.02px;
+}
+
+.productStatus {
+    display: flex;
+    width: 128px;
+    height: 21px;
+    margin-left: 165px;
+}
+
+#closeSquare {
+    width: 17px;
+    height: 17px;
+    color: #CDCDCD;
+    cursor: pointer;
+}
+
+#checkSquare {
+    width: 17px;
+    height: 17px;
+    color: #13C200;
+    margin-left: 7px;
+    cursor: pointer;
+}
+
+.StatusAva {
+    width: 69px;
+    height: 21px;
+    font: normal normal normal 15px/23px Poppins;
+    color: #8D8D8D;
+    margin-left: 21px;
+}
+
+#deleteButton {
+    width: 17px;
+    color: #FF3B3B;
+    height: 18px;
+    margin-left: 91px;
+    cursor: pointer;
+}
+
+
+.endLine {
+    margin-top: 26.51px;
+    margin-left: 513.5;
+    width: 339px;
+    border: 1px solid #CDCDCD;
+}
+
+.AdminPopUp {
+    position: absolute;
+    -webkit-position: sticky;
+    width: 100vw;
+    height: 215.959vw;
+    background-color: rgba(0, 0, 0, 0.9);
+    top: 0;
+    z-index: 1046;
+    display: none;
+}
+
+.SmallUp {
+    width: 1088px;
+    height: 665px;
+    margin-top: 3.294vw;
+    margin-left: 10.176vw;
+    background-color: white;
+    z-index: 1046;
+    display: grid;
+    grid-template-rows: 56px 301px;
+}
+
+.headingPopUp {
+    /* border: 1px solid black; */
+    width: 587.5px;
+    height: 24px;
+    margin-top: 16px;
+    margin-left: 24px;
+    display: flex;
+}
+
+.adminClose {
+    width: 14px;
+    height: 24px;
+    font-size: 2.855vw;
+    transform: rotate(45deg);
+    cursor: pointer;
+    color: #4D4D4D;
+}
+
+.adminPopHeading {
+    width: 132px;
+    height: 24px;
+    margin-left: 441px;
+    font: normal normal bold 20px/24px Montserrat;
+    color: #2D2D2D;
+}
+
+.detailFill{
+    width: 986px;
+    height: 260px;
+    border: 1px solid black;
+    margin-top: 41px;
+    margin-left: 55px;
+}

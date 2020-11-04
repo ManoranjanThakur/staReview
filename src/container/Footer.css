@@ -1,0 +1,202 @@
+.footer{
+    z-index:1001;
+    display:flex;
+    margin-top:20.660vw;
+    margin-bottom: 0vw;
+    width:100vw;
+    height:34.553vw;
+}
+.f1{
+    z-index:1001;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:8.346vw;
+    margin-left:3.807vw;
+    width:20.132vw;
+    height:5.708vw;
+}
+.email{
+    z-index:1001;
+    outline-color: white;;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:2.562vw;
+    margin-left:0vw;
+    width:15vw;
+    height:1.708vw;
+    border:0vw;
+}
+.ok{
+    z-index:1001;
+    outline-color: white;;
+    color:#8D8D8D;
+    border:0vw;
+    background-color:white;
+}
+.f2{
+    z-index:1001;
+    margin-top:8.346vw;
+    margin-left:17.789vw;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+}
+.f3{
+    z-index:1001;
+    margin-top:8.346vw;
+    margin-left:15.886vw;
+}
+.f3a{
+    z-index:1001;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:ovw;
+    margin-left:5.051vw;
+}
+.f3b{
+    z-index:1001;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:2.782vw;
+    margin-left:2.635vw;
+}
+.f3c{
+    z-index:1001;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:5.564vw;
+    margin-left:2.416vw;
+}
+.f3d{
+    z-index:1001;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:8.346vw;
+    margin-left:0.779vw;
+}
+.f3e{
+    z-index:1001;
+    color:#4D4D4D;
+    font: normal normal normal 1.098vw/1.684vw Poppins;
+    margin-top:11.127vw;
+    margin-left:0.293vw;
+}
+.f4{
+    z-index:1001;
+    color:#4D4D4D;
+    margin-top:31.332vw;
+    margin-left: -54.905vw;
+    font: normal normal normal 0.878vw/1.318vw Poppins;
+}
+#copyright{
+    z-index:1001;
+    margin-top:0.5vw;
+}
+
+
+@media (max-width:700px){
+    .footer{
+        width:100vw;
+        height:40vw;
+    }
+    .f1{
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        width:31.429vw;
+        height:10.710vw;
+    }
+    .emaildiv{
+        display: flex;
+    }
+    .email{
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-top:2.562vw;
+        margin-left:0vw;
+        width:18vw;
+        height:2.857vw;
+    }
+    .ok{
+        height:2.429vw;
+        width:2.429vw;
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-left:0vw;
+        margin-top:2.41vw;
+    }
+    .f2{
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-left:3vw;
+    }
+    .f3{
+        margin-left:10vw;
+    }
+    .f3a{
+        margin-left:7vw;
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+    }
+    .f3b{
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-top:2.782vw;
+        margin-left:3.85vw;
+    }
+    .f3c{
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-top:5.564vw;
+        margin-left:3.75vw;
+    }
+    .f3d{
+        z-index:1001;
+        color:#4D4D4D;
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-top:8.346vw;
+        margin-left:1.6vw;
+    }
+    .f3e{
+        z-index:1001;
+        color:#4D4D4D;
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+        margin-top:11.127vw;
+        margin-left:1vw;
+    }
+    .f4{
+        margin-top:33.332vw;
+        margin-left: -61.905vw;
+        font: normal normal normal 1.4vw/2.2vw Poppins;
+    }
+    
+}
+
+
+/* @media (max-width:700px){
+    .footer{
+        display:grid;
+        width:51.429vw;
+        height:83.286vw;
+    }
+    .f1{
+        
+        font: normal normal normal 1.714vw/2.571vw Poppins;
+        margin-top:3.714vw;
+        margin-left:5.286vw;
+        width:31.429vw;
+        height:10.710vw;
+    }
+    .emaildiv{
+        display: flex;
+    }
+    .email{
+        font: normal normal normal 1.714vw/2.571vw Poppins;
+        margin-top:2.562vw;
+        margin-left:0vw;
+        width:18vw;
+        height:2.857vw;
+    }
+    .ok{
+        height:2.429vw;
+        width:2.429vw;
+        font: normal normal normal 1.714vw/2.571vw Poppins;
+        margin-left:0vw;
+        margin-top:2.41vw;
+    }
+    .f2{
+        margin-top:7.286vw;
+        margin-left:3.786vw;
+        font: normal normal normal 1.714vw/2.571vw Poppins;
+    }
+} */
